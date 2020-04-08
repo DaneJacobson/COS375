@@ -1,0 +1,15 @@
+Running the program is simple, you simply compile the program in the Nobel cluster:
+
+g++ -o sim sim.cpp UtilityFunctions.o
+
+Then you run the program with an argument that is the converted binary file:
+
+sim example.bin
+OR
+sim fib.bin
+OR
+sim test.bin
+
+Thank you,
+
+Dane Jacobson
